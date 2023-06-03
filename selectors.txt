@@ -1,0 +1,27 @@
+Зарплата:
+class="viewbull-summary-price__value inplace"
+data-field="salaryMin-salaryMax-salaryDescription"
+
+Вакансия:
+class="inplace"
+data-field="type"
+
+Профессиональная область:
+class="inplace"
+data-field="professionalArea"
+
+Занятость:
+class="inplace"
+data-field="employment"
+
+Образование:
+class="inplace"
+data-field="education"
+
+Опыт работы:
+class="inplace"
+data-field="experience"
+
+Категория прав:
+class="inplace"
+data-field="driverLicenseCategory"

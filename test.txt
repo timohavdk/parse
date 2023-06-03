@@ -1,0 +1,1141 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+		<title>Водитель-экспедитор категории В коробка, работа в ИП Чепусова Е.В. в Артеме — вакансии на ФарПосте</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+
+<meta http-equiv="x-dns-prefetch-control" content="on">
+
+<link rel="dns-prefetch" href="//wms-map.vl.ru">
+	<link rel="dns-prefetch" href="https://static.baza.farpost.ru">
+
+	<meta name="description" content="Объявление от ИП Чепусова Е.В. об открытии вакансии &laquo;водитель-экспедитор категории в коробка&raquo; в Артеме. Водитель-экспедитор, найди работу своей мечты на FarPost! Обширная база, ежедневные обновления, удобная фильтрация." />
+
+
+
+
+		<link rel="stylesheet" href="https://static.baza.farpost.ru/resources/styles/scss/common-critical_dk.css?2009107941" type="text/css" charset="UTF-8"/><link rel="stylesheet" href="https://static.baza.farpost.ru/resources/styles/common.min.css?2008807365" type="text/css" charset="UTF-8"/><link rel="stylesheet" href="https://static.baza.farpost.ru/resources/styles/scss/viewbull/image-gallery.css?2000401108" type="text/css" charset="UTF-8"/><link rel="stylesheet" href="https://static.baza.farpost.ru/resources/styles/scss/bulletinUserActions.css?2003752862" type="text/css" charset="UTF-8"/>
+				<script type="application/javascript">
+			if (!window.ajae) {
+				var ajae = {};
+			}
+			if(function(o){var a="ajae",e=0;window.onerror=function(n,w,r,i,t){window.console&&console.error(n,w,r,i,t),void 0!==o&&(o.setItem(a,++e),o.setItem(a+e,[n,w,r,i,t&&t.stack||""].join(" #! "))),window.ajaeData||(window.ajaeData=[]),window.ajaeData[window.ajaeData.length]=[n,w,r,i,t]}}(window.localStorage),window.bazaDomReady||window.baza){if(!window.onerror)throw new Error("Recurcive html load");window.onerror("Recurcive html load",document.location.href,0,0,new Error),window.ajae&&(ajae.brokenPage=!0)}		</script>
+		
+		<script>
+			if (!window.jQuery) {
+				var bazaDomReady={readyCalls:[],lib:[]},$=function(){"use strict";var e,n,o,a="undefined"!=typeof window&&window.document,t=!a;function r(e){var n;for(n=0;n<e.length;n+=1)try{e[n](jQuery)}catch(e){window.console&&console.log(e),window.onerror&&window.onerror(e.message,e.fileName,e.lineNumber,e.columnNumber,e)}}function d(){t||(t=!0,o&&clearInterval(o),window.requirejs&&requirejs(["jquery"],(function(e){window.$=window.jQuery=e;var n=bazaDomReady.readyCalls;bazaDomReady.readyCalls=[],r(n)})))}if(a){if(document.addEventListener)document.addEventListener("DOMContentLoaded",d,!1),window.addEventListener("load",d,!1);else if(window.attachEvent){window.attachEvent("onload",d),n=document.createElement("div");try{e=null===window.frameElement}catch(e){}n.doScroll&&e&&window.external&&(o=setInterval((function(){try{n.doScroll(),d()}catch(e){}}),30))}"complete"===document.readyState&&d()}return function e(n){return bazaDomReady.readyCalls.push(n),e}}();			}
+
+			window.__require_baseUrl__ = 'https://static.baza.farpost.ru/resources/';
+		</script>
+
+		
+		
+
+	<meta property="og:title" content="Водитель-экспедитор категории В коробка, работа в ИП Чепусова Е.В. в Артеме — вакансии на ФарПосте"/>
+
+	<meta property="og:description" content="Объявление от ИП Чепусова Е.В. об открытии вакансии &laquo;водитель-экспедитор категории в коробка&raquo; в Артеме. Водитель-экспедитор, найди работу своей мечты на FarPost! Обширная база, ежедневные обновления, удобная фильтрация."/>
+
+	<meta property="og:url" content="https://www.farpost.ru/artem/rabota/vacansii/voditel-expeditor-kategorii-v-korobka-108828148.html"/>
+
+	<meta property="og:site_name" content="FarPost.ru"/>
+
+	<meta property="og:image" content="https://static.baza.farpost.ru/v/1598233569413_bulletin"/>
+	<meta property="og:image:secure_url" content="https://static.baza.farpost.ru/v/1598233569413_bulletin"/>
+	<meta property="twitter:image" content="https://static.baza.farpost.ru/v/1598233569413_bulletin"/>
+	<link rel="image_src" href="https://static.baza.farpost.ru/v/1598233569413_bulletin"/>
+
+	<meta property="og:type" content="website"/>
+
+	<link rel="search" type="application/opensearchdescription+xml" title="farpost.ru" href="//www.farpost.ru/search.xml" />
+
+
+
+
+
+<meta name="web-push-browser-key" content="BEAyPDZPpAiCqiNXLMW1Sjl9ALHJB6VOO92k9f89itoPlDOsUsFE75rxh3Ppd_-74QBbf_osMDSOL19WLGhNxDo"/>
+
+
+	<script type="text/javascript">
+		window.dataLayer = window.dataLayer || [];
+
+		window.dataLayer.push({"page_type":"viewbull"});
+	</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5FQ8LP7');</script>
+<!-- End Google Tag Manager -->
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
+</head>
+
+<body  class="fixed1280 desktop" data-cookie-host=".farpost.ru" data-city-id="1110" data-experiments="is-city-change-allowed code-auth-sms spectech-disabled" data-page-name="viewbull">
+	
+			<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5FQ8LP7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+		
+					
+<noscript>
+			<center><div class="noscript alert alert_r" style="margin: 0 auto; float: none; border-radius: 0; font-size: 18px; padding-top: 10px; padding-bottom: 8px">
+				<p>У вас выключен JavaScript, сайт не будет работать корректно. <a style="color: #EA1B1B; text-decoration: underline" href="http://www.enable-javascript.com/ru/" target="_blank">Включить JavaScript</a>.</p>
+			</div></center>
+		<div class="clear">&nbsp;</div>
+		
+	<link rel="stylesheet" href="https://static.baza.farpost.ru/resources/styles/scss/noscript.css?2001028087" type="text/css" />
+
+</noscript>
+
+<div id="menu" class="personalTopNav -anonym">
+	<div class="menuInner">
+	<table width="100%"><tr><td>
+		<table align="left" class="items"><tr>
+			                <td class="col_logo js-show-additional-navigation">
+					<a href="/artem/">&nbsp;</a>
+				</td>
+			
+							<td class="col_city">
+											<div class="popButton cityPop"><i class="ico">&nbsp;</i> Артем</div>
+									</td>
+			
+												<td>
+						<noindex>
+							<a class="popButton bookmarks personalNavLoader" href="#" data-href="/personal/nav" data-mode="col2">
+								<i>&nbsp;</i>
+								<span>Подписки и избранное</span>
+							</a>
+						</noindex>
+					</td>
+								<td>
+									</td>
+					</tr></table>
+	</td><td>
+		<table align="right" class="items"><tr>
+			<td>
+									<a class="popButton add" href="/adding?type=job">Подать<span class="noSmall">&nbsp;объявление</span></a>
+							</td>
+
+						<td>
+				<noindex>
+					<a rel="nofollow" class="popButton popButtonSmall help" href="/help/"><i>&nbsp;</i></a>
+				</noindex>
+			</td>
+			
+			
+			<td>
+					<a data-name="notifications-and-dialogs" data-dummy-click="header_open_messages"
+	data-href="/personal/messaging-modal"
+	class="popButton messages personalNavLoader popButtonSmall" title="">
+	<i>&nbsp;</i>
+	<span class="num" style="display: none;"><span></span></span>
+	</a>
+			</td>
+
+							<td class="col_login">
+					<noindex>
+						<a rel="nofollow" class="popButton login with-modal-popup1" href="https://www.farpost.ru/sign?return=%2Fartem%2Frabota%2Fvacansii%2Fvoditel-expeditor-kategorii-v-korobka-108828148.html"><i>&nbsp;</i>Вход и регистрация</a>
+					</noindex>
+				</td>
+					</tr></table>
+	</td></tr></table>
+	</div>
+</div>
+
+
+<div class="menuSep">&nbsp;</div>
+		
+	
+			<div id="outerLayout">
+				<script type="text/javascript">
+		try {
+			$(function () {
+				var data = {};
+				data.action = 'firsthit';
+				if (document.referrer) {
+					data.referrer = document.referrer;
+				}
+				$.ajax('/mmy.txt', {
+					cache: false,
+					data: data
+				});
+			});
+		} catch (e) {
+		}
+	</script>
+
+
+
+	
+	
+	<div id="breadcrumbs_placeholder" class="site-content-container viewport-padding" >
+	<div id="breadcrumbs" class="breadcrumbs_arrow_fill breadcrumbs_viewbull">
+	<ol itemscope itemtype="http://schema.org/BreadcrumbList">
+			<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+					<a itemprop="item" class="auto-shy" href="https://www.farpost.ru/artem/">
+							Фарпост				<meta itemprop="name" content="Фарпост Артем"/>
+					</a>
+				<meta itemprop="position" content="1"/>
+	</li>
+	<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+					<a itemprop="item" class="auto-shy" href="https://www.farpost.ru/artem/rabota/">
+							<span itemprop="name">Работа</span>
+					</a>
+				<meta itemprop="position" content="2"/>
+	</li>
+	<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+					<a itemprop="item" class="auto-shy" href="https://www.farpost.ru/artem/rabota/vacansii/">
+							<span itemprop="name">Вакансии</span>
+					</a>
+				<meta itemprop="position" content="3"/>
+	</li>
+	<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+					<a itemprop="item" class="auto-shy" href="https://www.farpost.ru/artem/rabota/vacansii/+/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%80/">
+							<span itemprop="name">Экспедитор</span>
+					</a>
+				<meta itemprop="position" content="4"/>
+	</li>
+	<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+					<a itemprop="item" class="auto-shy" href="https://www.farpost.ru/artem/rabota/vacansii/+/%D0%92%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C-%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%80/">
+							<span itemprop="name">Водитель-экспедитор</span>
+					</a>
+				<meta itemprop="position" content="5"/>
+	</li>
+	</ol>
+</div>	<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "\u0424\u0430\u0440\u043f\u043e\u0441\u0442 \u0410\u0440\u0442\u0435\u043c",
+            "item": "https://www.farpost.ru/artem/"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "\u0420\u0430\u0431\u043e\u0442\u0430",
+            "item": "https://www.farpost.ru/artem/rabota/"
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "\u0412\u0430\u043a\u0430\u043d\u0441\u0438\u0438",
+            "item": "https://www.farpost.ru/artem/rabota/vacansii/"
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "\u042d\u043a\u0441\u043f\u0435\u0434\u0438\u0442\u043e\u0440",
+            "item": "https://www.farpost.ru/artem/rabota/vacansii/+/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%80/"
+        },
+        {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c-\u044d\u043a\u0441\u043f\u0435\u0434\u0438\u0442\u043e\u0440",
+            "item": "https://www.farpost.ru/artem/rabota/vacansii/+/%D0%92%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C-%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%80/"
+        }
+    ]
+}</script>
+</div>
+
+
+	<div id="content">
+		<div class='site-content-container viewport-padding'>
+							
+	
+	
+			<script type="text/javascript">
+			$(function () {
+									baza.dummy.event({"action":"viewbul_actual_date","payload":{"timestamp":1685764247}});
+							})
+		</script>
+	
+			<script type="text/javascript">
+			$(function () {
+									baza.facebook.event({"type":"track","payload":"ViewContent"});
+							})
+		</script>
+	
+			<div class='clear'></div>
+			
+	<div class="viewbull-bulletin-id">
+		<span class="viewbull-bulletin-id__num">
+			№108828148		</span>
+	</div>
+
+
+
+
+
+
+<table class="bulletinTable bulletinTable_fixed-layout" width="100%">
+<tr>
+<td class="bulletinCell" id="bulletin">
+	
+	
+<div class="bullViewEx bullMode">
+	
+
+<header class="viewbull-header">
+	<div class="viewbull-header__actuality">
+		<div class="viewbull-actual-date">сегодня в 13:50</div>	</div>
+	<h1 class="subject viewbull-field__container">
+		<span data-field="type" class="inplace auto-shy">Водитель-экспедитор категории В коробка<nobr> в Артеме</nobr></span>
+		<meta name="bulletin-dir-id" content="49">
+	</h1>
+</header>
+
+
+
+
+<div class="js-subject-actions bulletin-actions-buttons">
+	
+<a rel="nofollow" href="/bookmark/bulletin/108828148/add?origin=%2Fartem%2Frabota%2Fvacansii%2Fvoditel-expeditor-kategorii-v-korobka-108828148.html"
+   class="bzr-btn bzr-btn_size_s bulletin-action-button doBookmark js-bookmark-action bzr-btn_style_action bzr-icon bzr-icon_size_24 bzr-icon_name_bookmark"  data-action="add-bookmark" data-type="bulletin" data-dummy-click="viewbull-action:click-bookmark-add" data-firebase-event="{&quot;eventName&quot;:&quot;Web_viewbull_action&quot;,&quot;actionName&quot;:&quot;viewbull_action&quot;,&quot;action&quot;:&quot;viewbull_click_bulletin_favorite&quot;,&quot;screen&quot;:&quot;viewbull&quot;,&quot;origin&quot;:&quot;web&quot;}">
+	Избранное</a>
+
+<a rel="nofollow" href="/bookmark/bulletin/108828148/note?origin=%2Fartem%2Frabota%2Fvacansii%2Fvoditel-expeditor-kategorii-v-korobka-108828148.html"
+   class="bzr-btn bzr-btn_size_s bulletin-action-button doBookmarkNote js-edit-note-action bzr-btn_style_action bzr-icon bzr-icon_size_24 bzr-icon_name_note"  data-object-id="108828148" data-firebase-event="{&quot;eventName&quot;:&quot;Web_viewbull_action&quot;,&quot;actionName&quot;:&quot;viewbull_action&quot;,&quot;action&quot;:&quot;viewbull_click_add_note&quot;,&quot;screen&quot;:&quot;viewbull&quot;,&quot;origin&quot;:&quot;web&quot;}" data-dummy-click="viewbull_h1_add_note">
+	Заметка</a>
+
+<a rel="nofollow" href="#"
+   class="bzr-btn bzr-btn_size_s bulletin-action-button doShareLink js-share-button bzr-btn_style_action bzr-icon bzr-icon_size_24 bzr-icon_name_share" >
+	Поделиться</a>
+
+	<script>
+		$(function () {
+			requirejs(['social-buttons', 'tipsy-tooltip'], function (socialButtons, Tooltip) {
+				var holderHtml;
+
+				var $link = $('.js-share-button').filter(function () {
+					return !$(this).data('is-share-inited')
+				}).data('is-share-inited', true);
+
+				$link.on('click', function (e) {
+					e.preventDefault();
+
+					holderHtml = holderHtml || socialButtons.createSocialButtons('https://www.farpost.ru/108828148').html();
+
+					var $target = $(e.currentTarget);
+
+					e.stopPropagation();
+
+					if ($target.data('tooltip-ignore-click')) {
+						e.preventDefault();
+					}
+
+					var tipsyApi = Tooltip.addLazyTip($target, {
+						gravity: 'n',
+						class: 'share-buttons-tipsy',
+						html: true,
+						title: function () {
+							return holderHtml;
+						}
+					});
+
+					tipsyApi.show();
+				});
+			});
+		})
+	</script>
+</div>
+
+<div class="bulletin-user-action-container bulletin-bookmark-container">
+	
+<div class="clear">&nbsp;</div>
+<div class="object-note object-note-bookmark"
+     data-object-id="108828148" data-object-type="bulletin"
+			data-dummy-click="viewbull_h1_add_note"
+				data-firebase-event='{&quot;eventName&quot;:&quot;Web_viewbull_action&quot;,&quot;actionName&quot;:&quot;viewbull_action&quot;,&quot;action&quot;:&quot;viewbull_click_add_note&quot;,&quot;screen&quot;:&quot;viewbull&quot;,&quot;origin&quot;:&quot;web&quot;}'
+	>
+	<div class="object-note-text">Добавить заметку</div>
+	<div class="object-note-date"></div>
+</div></div>
+
+
+	<div class="note-form async">
+			<p class="form-title">Заметка к объявлению</p>
+	<textarea class="note-text" name="note" placeholder="Введите текст заметки"></textarea>
+	<button class="button button-submit">Сохранить</button>
+	<a  class="button-cancel closePopup" data-role="context-menu-closer">Отмена</a>
+	<div class="clear"></div>
+	<div class="notification"></div>
+		</div>
+
+	<script type="text/javascript">
+		$(function () {
+			var $objectNotes = $('.object-note');
+
+			// Убираем клик по брифу в списках объяв
+			$objectNotes.on('mouseup', function (e) {
+				e.stopPropagation();
+			});
+
+			requirejs(
+				['note-form'],
+				/** @param {module:note-form} NoteClass */
+				function (NoteClass) {
+					if (!NoteClass.instance) {
+						NoteClass.instance = new NoteClass({
+							url: "/personal/bookmark/note"
+						});
+					}
+				}
+			);
+
+			if (baza.isMobileSite()) {
+				$(document).on('extended-bulletin-view-showed', function () {
+					$('.history-content .object-note').on('click', function (e) {
+						e.preventDefault();
+						var id = $(this).data('object-id');
+						$objectNotes.filter(function () {
+							return $(this).data('object-id') === id;
+						}).trigger('click');
+					});
+				});
+			}
+		});
+	</script>
+
+<script>
+	$(function () {
+		var $objectNotes = $('.object-note');
+
+		$(document).off('click.noteEditAction');
+		$(document).on('click.noteEditAction', '.js-edit-note-action', function (e) {
+			e.preventDefault();
+			var id = $(this).data('object-id');
+
+			var $firstObjectNote = $objectNotes.filter(function () {
+				return Math.abs($(this).data('object-id')) === id;
+			}).first();
+
+			//mousedown тут чтобы попап сразу не закрывался @see baza.closePopup
+			$firstObjectNote.trigger('mousedown.note-bookmark-close');
+			$firstObjectNote.trigger('click');
+		});
+	});
+</script>
+
+
+
+
+
+	
+	<div class="fieldset">
+			<div class="image-gallery">
+		<div class="image-gallery__big-image-container">
+												<div class="image-caption image-caption_hidden"></div>
+													<img class="image-gallery__big-image" 						src="https://static.baza.farpost.ru/v/1598233569413_bulletin"
+						width="235"
+						height="150"
+						alt="Водитель-экспедитор. ИП Чепусова Е.В. Г. Артем, улица Пограничная 11 фото" />
+									</div>
+			</div>
+
+	<script type="text/javascript">
+		$(function () {
+			var items = [{"src":"https:\/\/static.baza.farpost.ru\/v\/1598233569413_bulletin","alt":"Водитель-экспедитор. ИП Чепусова Е.В. Г. Артем, улица Пограничная 11 фото","label":"","isUnavailable":false,"private":false,"height":150,"width":235,"isMain":true}];
+
+			baza.lightbox.init(items);
+		});
+	</script>
+	</div>
+
+	
+<div id="fieldsetView" bulletinId="108828148">
+	<div class="fieldset text">
+	<div class="viewbull-summary__container">
+	<div class="viewbull-summary">
+		<!-- блок цены со скидкой и доставкой -->
+					<div class="viewbull-summary__price viewbull-summary__vacancy-salary ">
+	<div class="field viewbull-field__container">
+		<span class="viewbull-summary-price__value inplace"
+		      data-field="salaryMin-salaryMax-salaryDescription">от 55&nbsp;000<i class='currency currency__rub'>&#8381;</i></span>
+	</div>
+
+	</div>
+
+	<div class="viewbull-summary__vacancy-firm-placement">
+					<div class="field viewbull-field__container">
+				<span class="value inplace"
+				      data-field="firmTitle">ИП Чепусова Е.В.</span>
+			</div>
+		
+					<div class="field viewbull-field__container">
+				<span class="value inplace"
+				      data-field="district-jobPlacement">г. Артем, улица Пограничная 11</span>
+			</div>
+			</div>
+		
+		<!-- блок продавца с рейтингом и прочей инфой -->
+		
+					
+			
+							<!-- блок c действиями типа купить/в корзину/телефон -->
+				
+<div class="subject-actions-grid">
+			<div class="subject-actions-grid__item">
+			<noindex><div class="job-response-button-field">
+					<a class="bzr-btn bzr-btn_style_info bzr-btn_size_xl viewbull-summary__button"
+		   rel="nofollow"
+		   href="/job_response/choose-resume/108828148"
+		   data-ga-blocking="yes"		   data-action="respond-to-vacancy"
+		   data-dummy-click="viewbull-action:click-respond:vacancy-summary-button"
+		   data-ga-event="{&quot;category&quot;:&quot;JOB_RESPONSE_BEGIN&quot;,&quot;action&quot;:&quot;click&quot;,&quot;tracker&quot;:&quot;,fpadc&quot;}"
+		   data-firebase-event="{&quot;eventName&quot;:&quot;Web_viewbull_action&quot;,&quot;actionName&quot;:&quot;viewbull_action&quot;,&quot;action&quot;:&quot;viewbull_click_respond&quot;,&quot;screen&quot;:&quot;viewbull&quot;,&quot;origin&quot;:&quot;web&quot;}"
+		   data-facebook-event="{&quot;type&quot;:&quot;track&quot;,&quot;payload&quot;:&quot;Contact&quot;}"
+		   data-yam-goal="{&quot;goal&quot;:&quot;JOB_RESPONSE_BEGIN&quot;,&quot;counterIds&quot;:[21490318]}">Откликнуться</a>
+
+			</div>
+</noindex>
+		</div>
+	
+	
+	
+			<div class="subject-actions-grid__item">
+			<noindex>
+<a href="/job_response/connect-employer/108828148"
+   class="bzr-btn viewbull-summary__button create-simple-response"
+   data-dummy-click="viewbull-action:click-connect-employer:vacancy"
+   data-firebase-event="{&quot;eventName&quot;:&quot;Web_viewbull_action&quot;,&quot;actionName&quot;:&quot;viewbull_action&quot;,&quot;action&quot;:&quot;viewbull_click_respond&quot;,&quot;screen&quot;:&quot;viewbull&quot;,&quot;origin&quot;:&quot;web&quot;}"
+   data-ga-event="{&quot;category&quot;:&quot;JOB_RESPONSE_BEGIN&quot;,&quot;action&quot;:&quot;click&quot;,&quot;tracker&quot;:&quot;,fpadc&quot;}"
+   data-yam-goal="{&quot;goal&quot;:&quot;JOB_RESPONSE_BEGIN&quot;,&quot;counterIds&quot;:[21490318]}">
+	Связаться с работодателем
+</a>
+</noindex>
+		</div>
+	
+	</div>
+
+	<script type="text/javascript">
+		$(function () {
+			var dummyAction = 'viewbull_vacancy';
+			var dummyPayload = {"response":"full","paymentstatus":1};
+
+			baza.dummy.sendOnce(dummyAction, dummyPayload);
+		});
+	</script>
+			
+			
+													</div>
+</div>
+
+	
+	
+	
+			<h3>Работа и обязанности</h3>
+
+									<div class="field  viewbull-field__container">
+	<div class="label">Вакансия</div>
+	<div class="value">
+		<span class="inplace" data-field="type">
+													Водитель-экспедитор категории В коробка			
+					</span>
+	</div>
+</div>
+
+												<div class="field  viewbull-field__container">
+	<div class="label">Проф. область</div>
+	<div class="value">
+		<span class="inplace" data-field="professionalArea">
+													Логистика - ВЭД - Склад - Снабжение, Наземный транспорт - Автосервис			
+					</span>
+	</div>
+</div>
+					
+						<div class="field  viewbull-field__container">
+	<div class="label">Занятость</div>
+	<div class="value">
+		<span class="inplace" data-field="employment">
+													Дневная			
+					</span>
+	</div>
+</div>
+		
+		
+				<div class="viewbull-field__container viewbull-field__job-text">
+			<p class="inplace auto-shy" data-field="jobObligation">-ведение маршрутного листа.<br />
+-Работа на автомобиле бутка 1,5 тонны.</p>
+		</div>
+			
+			<h3>Требования</h3>
+
+		
+		
+						<div class="field  viewbull-field__container">
+	<div class="label">Категория прав</div>
+	<div class="value">
+		<span class="inplace" data-field="driverLicenseCategory">
+													Категория B			
+					</span>
+	</div>
+</div>
+		
+				<div class="viewbull-field__container viewbull-field__job-text">
+			<p class="inplace auto-shy" data-field="jobRequirements">-опыт работы водителем-экспедитором приветствуется;<br />
+-ответственность.</p>
+		</div>
+			
+			<h3>Условия работы</h3>
+		<div class="viewbull-field__container auto-shy">
+			
+<p class="inplace mod__label_up_down auto-shy" data-field="text">
+	требуется водитель экспедитор<br />
+график работы 5/2. полный рабочий день.<br />
+Обращаться с понедельника по пятницу с 9,00 до 18,00<br />
+В ВЫХОДНЫЕ ДНИ НЕ БЕСПОКОИТЬ !!!</p>		</div>
+	
+	
+</div>
+
+	
+<script type="text/javascript">
+	$(function () {
+		baza.BulletinClickTracker.checkTrek(Number(108828148), {"paid":1,"service":"stick"});
+	})
+</script>
+
+</div>
+
+	
+
+	
+			<script>
+			$(function () {
+				$('.email').click(function () {
+					setTimeout(function () {
+						baza.BulletinClickTracker.sendDummyTrek('viewbull-action:click-email:contacts-bulletin');
+					}, 1)
+				});
+			});
+		</script>
+	
+<div class="ownerInfo ownerInfo_light">
+	<div class="ownerInfoInner owner-info-layout" data-id="19256579">
+		<div class="owner-info-layout__actions">
+							
+<div class="subject-actions-grid">
+			<div class="subject-actions-grid__item">
+			<noindex><div class="job-response-button-field">
+					<a class="bzr-btn bzr-btn_style_info bzr-btn_size_xl viewbull-summary__button"
+		   rel="nofollow"
+		   href="/job_response/choose-resume/108828148"
+		   data-ga-blocking="yes"		   data-action="respond-to-vacancy"
+		   data-dummy-click="viewbull-action:click-respond:vacancy-summary-button"
+		   data-ga-event="{&quot;category&quot;:&quot;JOB_RESPONSE_BEGIN&quot;,&quot;action&quot;:&quot;click&quot;,&quot;tracker&quot;:&quot;,fpadc&quot;}"
+		   data-firebase-event="{&quot;eventName&quot;:&quot;Web_viewbull_action&quot;,&quot;actionName&quot;:&quot;viewbull_action&quot;,&quot;action&quot;:&quot;viewbull_click_respond&quot;,&quot;screen&quot;:&quot;viewbull&quot;,&quot;origin&quot;:&quot;web&quot;}"
+		   data-facebook-event="{&quot;type&quot;:&quot;track&quot;,&quot;payload&quot;:&quot;Contact&quot;}"
+		   data-yam-goal="{&quot;goal&quot;:&quot;JOB_RESPONSE_BEGIN&quot;,&quot;counterIds&quot;:[21490318]}">Откликнуться</a>
+
+			</div>
+</noindex>
+		</div>
+	
+	
+	
+			<div class="subject-actions-grid__item">
+			<noindex>
+<a href="/job_response/connect-employer/108828148"
+   class="bzr-btn viewbull-summary__button create-simple-response"
+   data-dummy-click="viewbull-action:click-connect-employer:vacancy"
+   data-firebase-event="{&quot;eventName&quot;:&quot;Web_viewbull_action&quot;,&quot;actionName&quot;:&quot;viewbull_action&quot;,&quot;action&quot;:&quot;viewbull_click_respond&quot;,&quot;screen&quot;:&quot;viewbull&quot;,&quot;origin&quot;:&quot;web&quot;}"
+   data-ga-event="{&quot;category&quot;:&quot;JOB_RESPONSE_BEGIN&quot;,&quot;action&quot;:&quot;click&quot;,&quot;tracker&quot;:&quot;,fpadc&quot;}"
+   data-yam-goal="{&quot;goal&quot;:&quot;JOB_RESPONSE_BEGIN&quot;,&quot;counterIds&quot;:[21490318]}">
+	Связаться с работодателем
+</a>
+</noindex>
+		</div>
+	
+	</div>
+
+	<script type="text/javascript">
+		$(function () {
+			var dummyAction = 'viewbull_vacancy';
+			var dummyPayload = {"response":"full","paymentstatus":1};
+
+			baza.dummy.sendOnce(dummyAction, dummyPayload);
+		});
+	</script>
+			
+			
+			<noindex>
+				<div class="js-vl-rest-order"></div>
+			</noindex>
+
+					</div>
+
+					<div class="owner-info-layout__owner">
+				
+	<div class="company-profile auto-shy">
+		<div class="company-profile__text">
+			
+<div class="seller-summary">
+	<div class="seller-summary-user">
+		
+<span class="userNick auto-shy ">
+	<a href="/user/19256579/" rel="nofollow">19256579</a>
+
+	
+	
+				</span>
+
+	</div>
+
+	<div class="separated-list separated-list_micro-dot">
+					</div>
+
+	<div>Работодатель 2 года, 11 месяцев на сайте</div>
+
+			<div>Артем</div>
+	</div>
+		</div>
+		<div class="company-profile__logo">
+			
+	<div class="default-avatar">
+			</div>
+		</div>
+	</div>
+
+
+			<div class="owner-profile-count">
+			<a rel="nofollow" href="/user/19256579/">2 предложения</a>
+		</div>
+	
+	<div class="vlRuRatingPlaceHolder"
+	     style="display: none"
+	     data-url="https://www.vl.ru/widgets/baza-user-id-thread-comments-count/"
+	     	></div>
+			</div>
+			</div>
+</div>
+
+
+
+
+	
+	<div id="bulletinMap">
+<div class="viewbull__map-container loading-box">
+	<div class="map-stuff" style="position: relative;">
+		<div id="map" class="loading-box map-647ab897591e6" style="min-height: 190px"></div>
+	</div>
+			<div class='image-caption '>г. Артем, улица Пограничная 11</div>	</div>
+<script>
+	$(function () {
+		requirejs(['viewbull-map-initialize'], function (map) {
+			var mapOptions = {"point":["43.370761638","132.224286303"],"address":["г. Артем, улица Пограничная 11"],"mapType":"vlmaps","satellite":false,"mapUniqueClass":"map-647ab897591e6","coordinates":[{"lat":43.37076163771005,"lon":132.2242863027963}],"objects":null,"fullscreenOnClick":false,"utmContent":"viewBull","similarObjectRef":{"objectType":"bulletin","objectId":"108828148"},"isRouteBuilderEnabled":false};
+
+			map.initMap(mapOptions);
+		})
+	});
+</script>
+</div>
+
+
+	
+	<div class="image-list">
+				
+					<div data-index="0" class="image-list__image">
+				<img alt="Водитель-экспедитор. ИП Чепусова Е.В. Г. Артем, улица Пограничная 11 фото" src="https://static.baza.farpost.ru/v/1598233569413_bulletin" width="235" height="150">
+
+							</div>
+
+					</div>
+
+<script type="text/javascript">
+	$(function () {
+		var items = [{"src":"https:\/\/static.baza.farpost.ru\/v\/1598233569413_bulletin","alt":"Водитель-экспедитор. ИП Чепусова Е.В. Г. Артем, улица Пограничная 11 фото","label":"","isUnavailable":false,"private":false,"height":150,"width":235,"isMain":true}];
+
+		$('.image-list').on('click', '.image-list__image', function (event) {
+			// Важно убедиться, что клик был не на ссылке-действии под картинкой
+			if (event.target && event.target.tagName === 'A') return;
+
+			event.preventDefault();
+			event.stopPropagation();
+
+			requirejs(['bzr-photo-swipe'], function (SwipeFacade) {
+				SwipeFacade.openPhotoSwipe(items, $(event.currentTarget).data('index'), 'bottom');
+			});
+		});
+	});
+</script>
+
+
+	
+	
+
+
+<div id="similar-bulletins-block-647ab89759b2a" class="similar-bulletins-block">
+	<div class="similar-bulletins-block__header">Похожие вакансии</div>
+	<div class="similar-bulletins-block__list ">
+		
+		
+	
+	
+								<table  class="viewdirBulletinTable pageableContent" data-page="1">
+													<tbody class="native">
+	<tr>
+		<td class="blocksCell">
+			<table class="blocks blocks_fixed-layout">
+				<tr><td data-accuracy='extended'  class='bull-item bull-item_block content content bull-item bull-item_block' data-doc-id='8291330315'><div class="bulletinBlock bull-item-content " data-bulletin-id="82913303"  ><div class="top"><a name="82913303"></a><div class="bull-item__image"><div class="image"><a href="/artem/rabota/vacansii/voditel-expeditor-kategorii-v-82913303.html"><div class="bull-image-centered"><div class="bull-image-centered__container"><div class="bull-image-overlay"><img src="https://static.baza.farpost.ru/v/1626824304669_hugeBlock" alt="Водитель-экспедитор. АО ТК Мегаполис. Переулок Заводской 27 фото"/></div></div></div></a></div></div><div class="text"><div class="title"><div class="bull-item-content__subject-container"><a href="/artem/rabota/vacansii/voditel-expeditor-kategorii-v-82913303.html"                       class="bull-item__self-link auto-shy"                       data-role="bulletin-link">Водитель-экспедитор категории В</a></div><div class="bull-item__annotation"><div class="bull-item__annotation-row">АО ТК Мегаполис. Переулок Заводской 27</div></div></div></div></div><div class="bottom"><div class="bull-item-content__price-info-container" ><div class="bull-item-content__price-block"><div class="priceCell price-block tooltip-element tooltip-s" title="" data-tooltip_class="tipsy-info-tooltip"><div class="price-block__final-price finalPrice" data-price="47&nbsp;000&nbsp;&ndash; 65&nbsp;000<i class='currency currency__rub'>&#8381;</i>"><span class="price-block__price" data-role="price">47&nbsp;000&nbsp;&ndash; 65&nbsp;000<i class='currency currency__rub'>&#8381;</i></span></div></div><template id="brief-price-tip647ab8975a079"></template></div></div><div class="bull-item__bull-info-container"><div class="bull-item-info"><div class="bull-item-info__content"><div class="bull-item-info__row ellipsis-text"><div class="ellipsis-text__right-side"><div class="bull-item-info__value"><div class="date ">вчера в 16:34</div></div><div class="bull-item-info__value"><span class="views nano-eye-text" title="Количество просмотров">2180</span></div></div></div></div></div></div></div></div></td><td data-accuracy='extended'  class='bull-item bull-item_block content content bull-item bull-item_block' data-doc-id='7228270515'><div class="bulletinBlock bull-item-content " data-bulletin-id="72282705"  ><div class="top"><a name="72282705"></a><div class="bull-item__image"><div class="image"><a href="/artem/rabota/vacansii/voditel-expeditor-kategorii-s-72282705.html"><div class="bull-image-centered"><div class="bull-image-centered__container"><div class="bull-image-overlay"><img src="https://static.baza.farpost.ru/v/1613452485910_hugeBlock" alt="Водитель-экспедитор. ООО &quot;Мегаком&quot;. Переулок Заводской 27 фото"/></div></div></div></a></div></div><div class="text"><div class="title"><div class="bull-item-content__subject-container"><a href="/artem/rabota/vacansii/voditel-expeditor-kategorii-s-72282705.html"                       class="bull-item__self-link auto-shy"                       data-role="bulletin-link">Водитель экспедитор категории С</a></div><div class="bull-item__annotation"><div class="bull-item__annotation-row">ООО "Мегаком". Переулок Заводской 27</div></div></div></div></div><div class="bottom"><div class="bull-item-content__price-info-container" ><div class="bull-item-content__price-block"><div class="priceCell price-block tooltip-element tooltip-s" title="" data-tooltip_class="tipsy-info-tooltip"><div class="price-block__final-price finalPrice" data-price="73&nbsp;000&nbsp;&ndash; 90&nbsp;000<i class='currency currency__rub'>&#8381;</i>"><span class="price-block__price" data-role="price">73&nbsp;000&nbsp;&ndash; 90&nbsp;000<i class='currency currency__rub'>&#8381;</i></span></div></div><template id="brief-price-tip647ab8975a3a9"></template></div></div><div class="bull-item__bull-info-container"><div class="bull-item-info"><div class="bull-item-info__content"><div class="bull-item-info__row ellipsis-text"><div class="ellipsis-text__right-side"><div class="bull-item-info__value"><div class="date ">вчера в 16:47</div></div><div class="bull-item-info__value"><span class="views nano-eye-text" title="Количество просмотров">21782</span></div></div></div></div></div></div></div></div></td><td data-accuracy='extended'  class='bull-item bull-item_block content content bull-item bull-item_block' data-doc-id='9390680715'><div class="bulletinBlock bull-item-content " data-bulletin-id="93906807"  ><div class="top"><a name="93906807"></a><div class="bull-item__image"><div class="image"><a href="/artem/rabota/vacansii/voditel-expeditor-s-kategoriej-v-93906807.html"><div class="bull-image-centered"><div class="bull-image-centered__container"><div class="bull-image-overlay"><img src="https://static.baza.farpost.ru/v/1626404025285_hugeBlock" alt="Водитель-экспедитор. ООО &quot;Торговый клуб&quot;. Г. Артем, ул Саперная 3г фото"/></div></div></div></a></div></div><div class="text"><div class="title"><div class="bull-item-content__subject-container"><a href="/artem/rabota/vacansii/voditel-expeditor-s-kategoriej-v-93906807.html"                       class="bull-item__self-link auto-shy"                       data-role="bulletin-link">Водитель-экспедитор с категорией В</a></div><div class="bull-item__annotation"><div class="bull-item__annotation-row">ООО "Торговый клуб". Г. Артем, ул Саперная 3г</div></div></div></div></div><div class="bottom"><div class="bull-item-content__price-info-container" ><div class="bull-item-content__price-block"><div class="priceCell price-block tooltip-element tooltip-s" title="" data-tooltip_class="tipsy-info-tooltip"><div class="price-block__final-price finalPrice" data-price="от 60&nbsp;000<i class='currency currency__rub'>&#8381;</i>"><span class="price-block__price" data-role="price">от 60&nbsp;000<i class='currency currency__rub'>&#8381;</i></span></div></div><template id="brief-price-tip647ab8975a63d"></template></div></div><div class="bull-item__bull-info-container"><div class="bull-item-info"><div class="bull-item-info__content"><div class="bull-item-info__row ellipsis-text"><div class="ellipsis-text__right-side"><div class="bull-item-info__value"><div class="date ">26 мая</div></div><div class="bull-item-info__value"><span class="views nano-eye-text" title="Количество просмотров">4037</span></div></div></div></div></div></div></div></div></td></tr><tr><td data-accuracy='extended'  class='bull-item bull-item_block content content bull-item bull-item_block' data-doc-id='11005297515'><div class="bulletinBlock bull-item-content " data-bulletin-id="110052975"  ><div class="top"><a name="110052975"></a><div class="bull-item__image"><div class="image"><a href="/artem/rabota/vacansii/voditel-expeditor-kategorija-v-na-morozhenoe-110052975.html"><div class="bull-image-centered"><div class="bull-image-centered__container"><div class="bull-image-overlay"><img src="https://static.baza.farpost.ru/v/1678408666062_hugeBlock" alt="Водитель-экспедитор. ООО &quot;Дельта - Сервис&quot;. Г. Артем ул. Волочаевская 50 фото"/></div></div></div></a></div></div><div class="text"><div class="title"><div class="bull-item-content__subject-container"><a href="/artem/rabota/vacansii/voditel-expeditor-kategorija-v-na-morozhenoe-110052975.html"                       class="bull-item__self-link auto-shy"                       data-role="bulletin-link">Водитель-экспедитор категория В на мороженое</a></div><div class="bull-item__annotation"><div class="bull-item__annotation-row">ООО "Дельта - Сервис". Г. Артем ул. Волочаевская 50</div></div></div></div></div><div class="bottom"><div class="bull-item-content__price-info-container" ><div class="bull-item-content__price-block"><div class="priceCell price-block tooltip-element tooltip-s" title="" data-tooltip_class="tipsy-info-tooltip"><div class="price-block__final-price finalPrice" data-price="от 70&nbsp;000<i class='currency currency__rub'>&#8381;</i>"><span class="price-block__price" data-role="price">от 70&nbsp;000<i class='currency currency__rub'>&#8381;</i></span></div></div><template id="brief-price-tip647ab8975aa48"></template></div></div><div class="bull-item__bull-info-container"><div class="bull-item-info"><div class="bull-item-info__content"><div class="bull-item-info__row ellipsis-text"><div class="ellipsis-text__right-side"><div class="bull-item-info__value"><div class="date ">сегодня в 12:00</div></div><div class="bull-item-info__value"><span class="views nano-eye-text" title="Количество просмотров">853</span></div></div></div></div></div></div></div></div></td><td data-accuracy='extended'  class='bull-item bull-item_block content content bull-item bull-item_block' data-doc-id='837324215'><div class="bulletinBlock bull-item-content " data-bulletin-id="8373242"  ><div class="top"><a name="8373242"></a><div class="bull-item__image"><div class="image"><a href="/artem/rabota/vacansii/voditel-expeditor-8373242.html"><div class="bull-image-centered"><div class="bull-image-centered__container"><div class="bull-image-overlay"><img src="https://static.baza.farpost.ru/v/1681966438729_hugeBlock" alt="Водитель-экспедитор. ООО&quot;Кондитерская&quot;. Приморский край фото"/></div></div></div></a></div></div><div class="text"><div class="title"><div class="bull-item-content__subject-container"><a href="/artem/rabota/vacansii/voditel-expeditor-8373242.html"                       class="bull-item__self-link auto-shy"                       data-role="bulletin-link">Водитель-экспедитор</a></div><div class="bull-item__annotation"><div class="bull-item__annotation-row">ООО"Кондитерская". Приморский край</div></div></div></div></div><div class="bottom"><div class="bull-item-content__price-info-container" ><div class="bull-item-content__price-block"><div class="priceCell price-block tooltip-element tooltip-s" title="" data-tooltip_class="tipsy-info-tooltip"><div class="price-block__final-price finalPrice" data-price="60&nbsp;000&nbsp;&ndash; 100&nbsp;000<i class='currency currency__rub'>&#8381;</i>"><span class="price-block__price" data-role="price">60&nbsp;000&nbsp;&ndash; 100&nbsp;000<i class='currency currency__rub'>&#8381;</i></span></div></div><template id="brief-price-tip647ab8975acbe"></template></div></div><div class="bull-item__bull-info-container"><div class="bull-item-info"><div class="bull-item-info__content"><div class="bull-item-info__row ellipsis-text"><div class="ellipsis-text__right-side"><div class="bull-item-info__value"><div class="date ">вчера в 12:59</div></div><div class="bull-item-info__value"><span class="views nano-eye-text" title="Количество просмотров">10459</span></div></div></div></div></div></div></div></div></td><td data-accuracy='extended'  class='bull-item bull-item_block content content bull-item bull-item_block' data-doc-id='11014235115'><div class="bulletinBlock bull-item-content " data-bulletin-id="110142351"  ><div class="top"><a name="110142351"></a><div class="bull-item__image"><div class="image"><a href="/artem/rabota/vacansii/voditel-expeditor-110142351.html"><div class="bull-image-centered"><div class="bull-image-centered__container"><div class="bull-image-overlay"><img src="https://static.baza.farpost.ru/v/1649822294320_hugeBlock" alt="Водитель-экспедитор. ООО &quot;Приморский торговый центр&quot;. Луговая, Тавричанка фото"/></div></div></div></a></div></div><div class="text"><div class="title"><div class="bull-item-content__subject-container"><a href="/artem/rabota/vacansii/voditel-expeditor-110142351.html"                       class="bull-item__self-link auto-shy"                       data-role="bulletin-link">Водитель-экспедитор</a></div><div class="bull-item__annotation"><div class="bull-item__annotation-row">ООО "Приморский торговый центр". Луговая, Тавричанка</div></div></div></div></div><div class="bottom"><div class="bull-item-content__price-info-container" ><div class="bull-item-content__price-block"><div class="priceCell price-block tooltip-element tooltip-s" title="" data-tooltip_class="tipsy-info-tooltip"><div class="price-block__final-price finalPrice" data-price="80&nbsp;000&nbsp;&ndash; 110&nbsp;000<i class='currency currency__rub'>&#8381;</i>"><span class="price-block__price" data-role="price">80&nbsp;000&nbsp;&ndash; 110&nbsp;000<i class='currency currency__rub'>&#8381;</i></span></div></div><template id="brief-price-tip647ab8975af58"></template></div></div><div class="bull-item__bull-info-container"><div class="bull-item-info"><div class="bull-item-info__content"><div class="bull-item-info__row ellipsis-text"><div class="ellipsis-text__right-side"><div class="bull-item-info__value"><div class="date ">29 мая</div></div><div class="bull-item-info__value"><span class="views nano-eye-text" title="Количество просмотров">1249</span></div></div></div></div></div></div></div></div></td></tr>			</table>
+		</td>
+	</tr>
+</tbody>
+												</table>
+			
+	
+
+	</div>
+
+			<a href="#" class="bzr-btn bzr-btn_style_flat bzr-btn_size_xl bzr-btn_wide similar-bulletins-block__show-more ignore-scroll-anchoring">
+			Показать ещё вакансии		</a>
+	
+			<div class="similar-lemmas-list">
+			<div class="similar-lemmas-list__item">Все объявления</div>
+							<a class="similar-lemmas-list__item" href="/artem/rabota/vacansii/+/%D0%92%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C-%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D1%80/" data-action="goto-similar-dir">
+					Водитель-экспедитор				</a>
+					</div>
+	</div>
+
+<script type="text/javascript">
+	$(function () {
+		var $similarBlock = $('#similar-bulletins-block-647ab89759b2a');
+
+		baza.bullsHoverClick('.similar-bulletins-block', '.bull-item', true);
+		baza.bullsHoverClick('.similar-bulletin-placement', '.js-track-bulletin', true);
+		baza.dummyStatistics('viewbull_similar_block_bottom__exists');
+		baza.dummy.sendWhenIntoView('viewbull_similar_block_bottom__show', null, $similarBlock, { offset: -30 });
+
+		$similarBlock.on('mousedown', '[data-action="goto-similar-dir"]', function () {
+			baza.dummyStatistics('viewbull_similar_block_bottom__click_dir', baza.viewBullGetId());
+		});
+
+		var $list = $similarBlock.find('.similar-bulletins-block__list .viewdirBulletinTable');
+
+		var $blocks = $list.find('.blocksCell .blocks');
+		if ($blocks.children().length) {
+			$list = $blocks;
+		}
+
+		processItems($list);
+
+		
+		var nextUrl = baza.ajaxUrl('/bulletin/similar/bulletin/108828148?page=__page__&perPage=6&listType=block');
+		var nextPage = 2;
+
+		var $next = $similarBlock.find('.similar-bulletins-block__show-more');
+		var $list = $similarBlock.find('.similar-bulletins-block__list');
+
+		$next.on('click', function (e) {
+			e.preventDefault();
+
+			$next.addClass('loading');
+			baza.dummyStatistics('viewbull_similar_block_bottom__click_next', nextPage);
+
+			$.get(baza.setUrlParams(nextUrl, { page: nextPage }))
+				.done(function (html) {
+					if (html) {
+						var $content = $(html);
+
+						var $tbody = $content.find('.blocksCell .blocks tbody');
+						if (!$tbody.length) {
+							$tbody = $content.find('> tbody');
+						}
+
+						processItems($tbody.appendTo($list));
+
+						++nextPage;
+
+						if (!$content.hasClass('pageableContent')) {
+							$next.remove();
+							$list.addClass('similar-bulletins-block__list_separate');
+						}
+
+					} else {
+						$next.remove();
+						$list.addClass('similar-bulletins-block__list_separate');
+					}
+				})
+				.always(function () {
+					$next.removeClass('loading');
+				});
+		});
+
+		
+		function processItems($container) {
+			$container.find('.bull-item').each(function () {
+				this.setAttribute('data-dummy', 'viewbull_similar_block_bottom__click');
+			});
+
+						$container.find('.bull-item a.bulletinLink, .bull-item .imageCell a, .bull-item .image > a, .bull-item .title > a').attr('target', '_blank');
+					}
+	});
+</script>
+
+	
+<!--googleoff: index-->
+<noindex>
+
+<div class="bulletinViewDialogs">
+	
+	
+</div>
+<div class="clear">&nbsp;</div>
+
+</noindex>
+<!--googleon: index-->
+</div>
+
+</td>
+<td id="bulletinAdvertCell">
+
+	
+	
+<noindex>
+	<div class="bulletinInfoPlate">
+					
+				<div class="bulletinUserActions" id="scroll-to-actions">
+			
+<div class="bulletin-user-action-items">
+						<div class="bulletin-user-action-separator"></div>
+								<div class="bulletin-user-action-separator"></div>
+								<div class="bulletin-user-action-separator"></div>
+								<div class="bulletin-user-action-separator"></div>
+								
+<a rel="nofollow" href="/bookmark/bulletin/108828148/add?origin=%2Fartem%2Frabota%2Fvacansii%2Fvoditel-expeditor-kategorii-v-korobka-108828148.html"
+   class="bulletin-user-action-block bulletin-user-action-block_button doBookmark js-bookmark-action"  data-action="add-bookmark" data-type="bulletin" data-dummy-click="viewbull-action:click-bookmark-add" data-firebase-event="{&quot;eventName&quot;:&quot;Web_viewbull_action&quot;,&quot;actionName&quot;:&quot;viewbull_action&quot;,&quot;action&quot;:&quot;viewbull_click_bulletin_favorite&quot;,&quot;screen&quot;:&quot;viewbull&quot;,&quot;origin&quot;:&quot;web&quot;}">
+	<i>&nbsp;</i>Добавить в избранное</a>
+								
+<a rel="nofollow" href="/bookmark/bulletin/108828148/note?origin=%2Fartem%2Frabota%2Fvacansii%2Fvoditel-expeditor-kategorii-v-korobka-108828148.html"
+   class="bulletin-user-action-block bulletin-user-action-block_button doBookmarkNote js-edit-note-action"  data-object-id="108828148" data-firebase-event="{&quot;eventName&quot;:&quot;Web_viewbull_action&quot;,&quot;actionName&quot;:&quot;viewbull_action&quot;,&quot;action&quot;:&quot;viewbull_click_add_note&quot;,&quot;screen&quot;:&quot;viewbull&quot;,&quot;origin&quot;:&quot;web&quot;}" data-dummy-click="viewbull_h1_add_note">
+	<i>&nbsp;</i>Добавить заметку</a>
+								
+<a rel="nofollow" href="#"
+   class="bulletin-user-action-block bulletin-user-action-block_button doShareLink js-share-button share-button-link" >
+	<i>&nbsp;</i>Поделиться</a>
+
+	<script>
+		$(function () {
+			requirejs(['social-buttons', 'tipsy-tooltip'], function (socialButtons, Tooltip) {
+				var holderHtml;
+
+				var $link = $('.js-share-button').filter(function () {
+					return !$(this).data('is-share-inited')
+				}).data('is-share-inited', true);
+
+				$link.on('click', function (e) {
+					e.preventDefault();
+
+					holderHtml = holderHtml || socialButtons.createSocialButtons('https://www.farpost.ru/108828148').html();
+
+					var $target = $(e.currentTarget);
+
+					e.stopPropagation();
+
+					if ($target.data('tooltip-ignore-click')) {
+						e.preventDefault();
+					}
+
+					var tipsyApi = Tooltip.addLazyTip($target, {
+						gravity: 'n',
+						class: 'share-buttons-tipsy',
+						html: true,
+						title: function () {
+							return holderHtml;
+						}
+					});
+
+					tipsyApi.show();
+				});
+			});
+		})
+	</script>
+								<div class="bulletin-user-action-separator"></div>
+								
+<a rel="nofollow" href="/bulletin/108828148/petition"
+   class="bulletin-user-action-block bulletin-user-action-block_button doPetition red-link"  sync-link="">
+	<i>&nbsp;</i>Пожаловаться</a>
+			</div>
+		</div>
+	
+			
+			
+													</div>
+</noindex>
+
+						</td>
+</tr>
+</table>
+
+<div class="viewbull-user-history">
+	</div>
+
+
+		<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "JobPosting",
+    "title": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c-\u044d\u043a\u0441\u043f\u0435\u0434\u0438\u0442\u043e\u0440",
+    "description": "-\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u043c\u0430\u0440\u0448\u0440\u0443\u0442\u043d\u043e\u0433\u043e \u043b\u0438\u0441\u0442\u0430.\n-\u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435 \u0431\u0443\u0442\u043a\u0430 1,5 \u0442\u043e\u043d\u043d\u044b.",
+    "datePosted": "2023-03-31T10:57:19+10:00",
+    "validThrough": "2023-06-02T04:52:04+10:00",
+    "employmentType": "FULL_TIME",
+    "jobLocation": {
+        "@type": "Place",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "\u0433. \u0410\u0440\u0442\u0435\u043c, \u0443\u043b\u0438\u0446\u0430 \u041f\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u043d\u0430\u044f 11",
+            "addressLocality": "\u0410\u0440\u0442\u0435\u043c",
+            "addressRegion": "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "addressCountry": "RU"
+        }
+    },
+    "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "RUB",
+        "value": {
+            "@type": "QuantitativeValue",
+            "value": "55000.00",
+            "unitText": "MONTH",
+            "minValue": "",
+            "maxValue": ""
+        }
+    },
+    "hiringOrganization": "confidential"
+}</script>
+
+
+					<script type="application/json" id="ctr-viewbull-event">{"viewbullId":108828148}</script>
+			<div class='clear'></div>
+		</div>
+	</div>
+
+	<div class="site-content-container viewport-padding">
+	<div id="foot">
+		<table cellpadding="0" cellspacing="0" border="0">
+		<tr><td class="col1">
+
+							
+				
+			<p>&copy; Фарпост 1997&mdash;2023</p>
+	
+	<noindex><a class="google_translate" rel="nofollow" href="/set/google_translate/1">Translate Site</a></noindex>
+
+
+			
+		</td><td class="col2">
+			
+			
+					</td></tr>
+		</table>
+
+					</div>
+	</div>
+
+
+
+	<div id="nps_placeholder">
+			</div>
+		</div>
+	
+	
+
+	<link rel="stylesheet" href="https://static.baza.farpost.ru/resources/styles/scss/simple-job-response-form.css?2002012131" type="text/css" charset="UTF-8"/>
+	<link rel="stylesheet" href="https://static.baza.farpost.ru/resources/styles/scss/company.css?2009809998" type="text/css" charset="UTF-8"/>
+	<link rel="stylesheet" href="https://static.baza.farpost.ru/resources/styles/scss/avatar.css?2005436892" type="text/css" charset="UTF-8"/>
+
+
+	<script charset="UTF-8" src="https://static.baza.farpost.ru/resources/assets/runtime.01c43e5415a737bfa0df.js"></script>
+	<script charset="UTF-8" src="https://static.baza.farpost.ru/resources/assets/polyfill.31b622d8408f1a56f512.js"></script>
+	<script charset="UTF-8" src="https://static.baza.farpost.ru/resources/js/common.min.js?2002870380"></script>
+	<script charset="UTF-8" src="https://static.baza.farpost.ru/resources/assets/bookmark.674e9b7f0043dd10a378.js"></script>
+	<script charset="UTF-8" src="https://static.baza.farpost.ru/resources/assets/simple-job-response-form-view.dbdb1465a1cb11460eb3.js"></script>
+	<script charset="UTF-8" src="https://static.baza.farpost.ru/resources/assets/ctr-analytics-tracker.724371f69845b57e4afe.js"></script>
+
+
+
+<div class="asyncViewDirReloadContent" style="display: none">
+	<script>
+	try {
+	var bazaLastRef = document.referrer;
+	if (window.baza && baza.viewDirContext && baza.viewDirContext.prevState()) {
+		bazaLastRef = baza.viewDirContext.prevState();
+	}
+} catch (e){
+	bazaLastRef = document.referrer;
+}
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;
+		m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	var gaCustomUrl = (function(){
+		try {
+			(new URLSearchParams(location.search)).forEach(function (name, value) {
+				if (name.indexOf('_ga_set_') === 0) {
+					ga('set', name.substring(8), value);
+				}
+			});
+
+			var gaCustomUrl = "/viewBullController?action=viewBullSeo&city=1110";
+
+			return gaCustomUrl || baza.getGaCustomUrl() || document.location.href;
+		} catch (e) {}
+	})();
+
+	var mainCounters = {"UA-52660522-1":{"siteSpeedSampleRate":15}};
+	for (var counterId in mainCounters) {
+		var options = mainCounters[counterId];
+		var sendCommand = options.name ? options.name + '.send' : 'send';
+
+		ga('create', counterId, 'auto', options);
+
+		if (bazaLastRef) {
+			ga('set', 'referrer', bazaLastRef);
+		}
+
+		if (window.baza) {
+			baza.onHitMiss(function (hitUrl) {
+				ga(sendCommand, 'pageview', { 'page': hitUrl, 'title': 'Advert hitmiss' });
+			});
+		}
+
+		if (gaCustomUrl) ga('set', {page: gaCustomUrl});
+
+					ga('set', 'dimension1', "split2_yes");
+		
+		ga(sendCommand, 'pageview');
+	}
+
+	
+	
+
+	</script>
+
+			<script type="text/javascript">
+		setTimeout(function(){
+			var image = new Image();
+			image.src = "https://counter.yadro.ru/hit;farpost?t45.6;r" +
+				escape(window.bazaLastRef ? bazaLastRef : document.referrer)
+				+ ((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))
+				+ ";u" + escape(document.URL)
+				+ ";i" + escape("Жж"+document.title.substring(0,80))
+				+ ";" + Math.random();
+		}, 50);
+		</script>
+	</div>
+
+
+
+
+<script type="application/json" id="events-count-json">{"unreadNotifications":0,"unreadDialogs":0}</script>
+
+</body>
+</html>

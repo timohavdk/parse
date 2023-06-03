@@ -1,45 +1,85 @@
 import requests
 import bs4
+import csv
 import html5lib
+import vacancy_parse_html
+import vacancy_parse_json
 
 
-def get_html_page(page_number):
-    response = requests.get(f'https://www.farpost.ru/rabota/vacansii/?page={page_number}')
-    #response = requests.get('https://www.farpost.ru//khabarovsk/rabota/vacansii/administrator-kassir-v-kafe-21393606.html')
+# Главный цикл обработки ссылок вакансий
+def main_cycle(FILE_NAME):
+    file_links = open('test_parse.txt', 'r')
+    all_links = file_links.readlines()
+
+    for link_number in range(0, len(all_links)):
+        document = get_html_document(all_links[link_number])
+
+        soup = bs4.BeautifulSoup(document, 'html5lib')
+        # print(soup.prettify())
+
+        if not check_is_valid_document(document):
+            print('something wrong')
+            continue
+
+        vacancy = parsing_doc(document)
+
+        file = open(FILE_NAME, 'w', newline="")
+        columns = ['vacancy', 'salary', 'city', 'employment', 'professionalArea', 'experience', 'education',
+                  'driver_license_category']
+        writer = csv.DictWriter(file, fieldnames=columns)
+        writer.writerow(vacancy)
+        file.close()
+
+        print('write vacancy')
+
+
+# Получить html документ
+def get_html_document(url):
+    response = requests.get(f'{url}')
     html_doc = response.text
-    print(html_doc)
 
     return html_doc
 
 
-def get_vacancy_links(document):
+# Проверить валидность документа на нужный тег
+def check_is_valid_document(document):
     soup = bs4.BeautifulSoup(document, 'html5lib')
-    raw_links = soup.find_all('a', class_="bull-item__self-link")
 
-    link = []
-
-    for i in range(0, len(raw_links)):
-        a_link = raw_links[i]
-
-        link.append('https://www.farpost.ru' + a_link.get('href'))
-
-    return link
+    vacancy_raw = soup.find('span', {'class': 'inplace', 'data-field': 'type'})
+    if vacancy_raw:
+        return True
+    else:
+        return False
 
 
-def search_cycle(pages_counts):
-    for page_number in range(200, pages_counts):
-        document = get_html_page(page_number)
+# Распарсить документ
+def parsing_doc(document):
+    dict_html_info = vacancy_parse_html.parse_html(document)
+    dict_json_info = vacancy_parse_json.parse_json(document)
 
-        links = get_vacancy_links(document)
+    vacancy_info = {}
+    for key, value in dict_json_info.items():
+        vacancy_info[key] = value
 
-        for i in range(0, len(links)):
-            print('link', links[i])
-            file = open('clear2.txt', 'a')
-            file.write(links[i] + '\n')
-            file.close()
+    for key, value in dict_html_info.items():
+        vacancy_info[key] = value
+
+    return vacancy_info
 
 
+FILE_NAME = 'vacancy.csv'
 
-search_cycle(400)
+file = open(FILE_NAME, 'w', newline="")
+columns = ['vacancy', 'salary', 'city', 'employment', 'professionalArea', 'experience', 'education', 'driver_license_category']
+writer = csv.DictWriter(file, fieldnames=columns)
+writer.writeheader()
+file.close()
 
-#get_html_page(1)
+main_cycle(FILE_NAME)
+
+# file = open(FILE_NAME, 'w', newline="")
+# columns = ['vacancy', 'salary', 'city', 'employment', 'professionalArea', 'experience', 'education', 'driver_license_category']
+# reader = csv.DictReader(file)
+# for row in reader:
+#     print(row['title'])
+# file.close()
