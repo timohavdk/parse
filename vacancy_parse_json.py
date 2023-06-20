@@ -52,6 +52,9 @@ def parse_json(document):
 # Приведение текста к числу
 def text_to_number(text):
     parts = text.split('.')
-    target_number = int(parts[0])
+    target_number = 0
+
+    if ('' != parts[0]):
+        target_number = int(parts[0])
 
     return target_number
