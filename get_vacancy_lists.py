@@ -12,74 +12,47 @@ FILE_NAME = f'{AREAS}/{AREAS}.csv'
 VACANCY_DIR = './vacancy'
 
 
+def write_properties(result_dictionary, target_dictionary, property_name, first_child, second_child):
+    if property_name in target_dictionary and target_dictionary[property_name] is not None:
+        first_cond = f'{first_child}' in target_dictionary[f'{property_name}']
+        second_cond = f'{second_child}' in target_dictionary[property_name]
+        if first_cond and second_cond:
+            result_dictionary[f'{property_name}_{first_child}'] = target_dictionary[property_name][f'{first_child}']
+            result_dictionary[f'{property_name}_{second_child}'] = target_dictionary[property_name][f'{second_child}']
+        else:
+            result_dictionary[f'{property_name}_{first_child}'] = None
+            result_dictionary[f'{property_name}_{second_child}'] = None
+    else:
+        result_dictionary[f'{property_name}_{first_child}'] = None
+        result_dictionary[f'{property_name}_{second_child}'] = None
+
+
 # Добавить обработку случаев с 0 полями
-def append_to_array_vacancies(result, items):
+def append_to_array_vacancies(items):
+    added_vacancy = []
     for index in range(0, len(items)):
         vacancy = {
             'id': items[index]['id'],
             'name': items[index]['name'],
             'url': items[index]['apply_alternate_url'],
-            'snippet_requirement': items[index]['snippet']['requirement'],
-            'snippet_responsibility': items[index]['snippet']['responsibility'],
-            'experience_id': items[index]['experience']['id'],
-            'experience_name': items[index]['experience']['name'],
             'employment_id': items[index]['employment']['id'],
             'employment_name': items[index]['employment']['name'],
         }
 
-        if 'salary' in items[index] and None != items[index]['salary']:
-            if 'from' in items[index]['salary'] and 'to' in items[index]['salary']:
-                vacancy['salary_from'] = items[index]['salary']['from']
-                vacancy['salary_to'] = items[index]['salary']['to']
-            else:
-                vacancy['salary_from'] = 'null'
-                vacancy['salary_to'] = 'null'
-        else:
-            vacancy['salary_from'] = 'null'
-            vacancy['salary_to'] = 'null'
+        write_properties(vacancy, items[index], 'salary', 'from', 'to')
+        write_properties(vacancy, items[index], 'snippet', 'requirement', 'responsibility')
+        write_properties(vacancy, items[index], 'experience', 'id', 'name')
+        write_properties(vacancy, items[index], 'employment', 'id', 'name')
+        write_properties(vacancy, items[index], 'employer', 'id', 'name')
+        write_properties(vacancy, items[index], 'address', 'lat', 'lng')
+        write_properties(vacancy, items[index], 'professional_roles', 'id', 'name')
 
-        if 'employer' in items[index] and None != items[index]['employer']:
-            if 'id' in items[index]['employer'] and 'name' in items[index]['employer']:
-                vacancy['employer_id'] = items[index]['employer']['id']
-                vacancy['employer_name'] = items[index]['employer']['name']
-            else:
-                vacancy['employer_id'] = 'null'
-                vacancy['employer_name'] = 'null'
-        else:
-            vacancy['employer_id'] = 'null'
-            vacancy['employer_name'] = 'null'
+        added_vacancy.append(vacancy)
 
-        if 'address' in items[index] and None != items[index]['address']:
-            if 'lat' in items[index]['address'] and 'lng' in items[index]['address']:
-                vacancy['address_lat'] = items[index]['address']['lat']
-                vacancy['address_lng'] = items[index]['address']['lng']
-            else:
-                vacancy['address_lat'] = 'null'
-                vacancy['address_lng'] = 'null'
-        else:
-            vacancy['address_lat'] = 'null'
-            vacancy['address_lng'] = 'null'
-
-        if 'professional_roles' in items[index] and None != items[index]['professional_roles']:
-            if 'id' in items[index]['professional_roles'] and 'name' in items[index]['professional_roles']:
-                vacancy['professional_roles_id'] = items[index]['professional_roles']['id']
-                vacancy['professional_roles_name'] = items[index]['professional_roles']['name']
-            else:
-                vacancy['professional_roles_id'] = 'null'
-                vacancy['professional_roles_name'] = 'null'
-        else:
-            vacancy['professional_roles_id'] = 'null'
-            vacancy['professional_roles_name'] = 'null'
-
-        print('vacancy', vacancy)
-        result.append(vacancy)
-
-    return result
+    return added_vacancy
 
 
 def get_vacancies(area_id, area_name):
-    print('area_name', area_name)
-
     headers = {
         "Authorization": "Bearer " + TOKEN
     }
@@ -88,24 +61,30 @@ def get_vacancies(area_id, area_name):
 
     r = requests.get(f'https://api.hh.ru/vacancies?{AREA}={area_id}&per_page=100&page=0', headers=headers)
 
+    print(f'area: {area_name}, id: {area_id}, status: {r.status_code}')
+
     if r.status_code == requests.codes.ok:
         json_data = r.json()
 
+        print(f'founded: {json_data[FOUND]}')
         if 100 >= json_data[FOUND]:
             items = json_data[ITEMS]
 
-            result.extend(append_to_array_vacancies(result, items));
+            result += append_to_array_vacancies(items)
 
         else:
             items = json_data[ITEMS]
 
-            result.extend(append_to_array_vacancies(result, items))
+            result += append_to_array_vacancies(items)
 
             cycle_count = json_data['pages']
+            print(f'cycle count {cycle_count}')
 
-            for index in range(0, cycle_count):
+            for index in range(0, cycle_count - 1):
                 r_cycle = requests.get(f'https://api.hh.ru/vacancies?{AREA}={area_id}&per_page=100&page={index + 1}',
                                        headers=headers)
+
+                print(f'area: {area_name}, id: {area_id}, status: {r.status_code}')
 
                 if r.status_code != requests.codes.ok:
                     continue
@@ -114,7 +93,7 @@ def get_vacancies(area_id, area_name):
 
                 items_cycle = json_cycle_data[ITEMS]
 
-                result.extend(append_to_array_vacancies(result, items_cycle))
+                result += append_to_array_vacancies(items_cycle)
 
         return result
 

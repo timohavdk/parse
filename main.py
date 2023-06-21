@@ -1,12 +1,13 @@
 import os
 import requests
 import get_vacancy_lists
-import json
-import bs4
+# import json
+# import bs4
 import csv
-import html5lib
-import vacancy_parse_html
-import vacancy_parse_json
+
+# import html5lib
+# import vacancy_parse_html
+# import vacancy_parse_json
 
 TOKEN = 'APPLO6JGASGHDGAG3I55G20UKG4G002H99V58VBDU6JCKCTGE2P3OD3EUAP4A6IM'
 AREAS = 'areas'
@@ -15,6 +16,26 @@ NAME = 'name'
 
 FILE_NAME = f'{AREAS}/{AREAS}.csv'
 VACANCY_DIR = './vacancy'
+
+VACANCY_COLUMNS = [
+    'id',
+    'name',
+    'url',
+    'employment_id',
+    'employment_name',
+    'salary_from',
+    'salary_to',
+    'snippet_requirement',
+    'snippet_responsibility',
+    'experience_id',
+    'experience_name',
+    'employer_id',
+    'employer_name',
+    'address_lat',
+    'address_lng',
+    'professional_roles_id',
+    'professional_roles_name'
+]
 
 
 def get_areas_array(json_response):
@@ -60,24 +81,40 @@ def get_areas(area_id):
 # get_areas('1948')
 
 def main_loop(file_name):
-    with open(file_name, 'r+', encoding='cp1251', newline='') as file:
+    print('START')
+
+    search_data = []
+
+    with open(file_name, 'r', encoding='cp1251', newline='') as file:
         reader = csv.DictReader(file)
 
-        limit = 0
-
         for row in reader:
-            result = get_vacancy_lists.get_vacancies(row[ID], row[NAME])
+            data = {
+                ID: row[ID],
+                NAME: row[NAME],
+            }
+            search_data.append(data)
 
-            #сделать запись в csv файлы
-            print('result', result)
+    print(f'SEARCH: {search_data}')
+    os.mkdir(VACANCY_DIR)
 
-            limit += 1
+    for row in search_data:
+        print(f'ID: {row[ID]}, AREA: {row[NAME]}')
+        result = get_vacancy_lists.get_vacancies(row[ID], row[NAME])
+        print(f'len result: {len(result)}')
 
-            if 0 == len(result):
-                continue
+        if 0 == len(result):
+            continue
+        else:
+            current_file = f'{VACANCY_DIR}/{row[ID]}_{row[NAME]}.csv'
 
-            if limit > 4:
-                break
+            with open(current_file, 'w', encoding='utf-8', newline='') as file:
+                writer = csv.DictWriter(file, fieldnames=VACANCY_COLUMNS)
+                writer.writeheader()
+
+                writer.writerows(result)
+
+    print('FINISH')
 
 
 main_loop(FILE_NAME)
