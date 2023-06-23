@@ -159,11 +159,14 @@ def get_count_table_by_param(file_name, param, count, output_file_name, header):
         writer.writerows(array_of_dict)
 
 
-get_count_table_by_param('./all-vacancy-with-area.csv', 'experience_name', COUNT,
-                         'count_vacancy_from_experience_name.csv',
-                         ['experience_name', COUNT])
-get_count_table_by_param('./all-vacancy-with-area.csv', 'employment_name', COUNT,
-                         'count_vacancy_from_employment_name.csv',
-                         ['employment_name', COUNT])
-get_count_table_by_param('./all-vacancy-with-area.csv', 'employer_name', COUNT, 'count_vacancy_from_employer_name.csv',
-                         ['employer_name', COUNT])
+# get_count_table_by_param('./all-vacancy-with-area.csv', 'experience_name', COUNT,
+#                          'count_vacancy_from_experience_name.csv',
+#                          ['experience_name', COUNT])
+# get_count_table_by_param('./all-vacancy-with-area.csv', 'employment_name', COUNT,
+#                          'count_vacancy_from_employment_name.csv',
+#                          ['employment_name', COUNT])
+# get_count_table_by_param('./all-vacancy-with-area.csv', 'employer_name', COUNT, 'count_vacancy_from_employer_name.csv',
+#                          ['employer_name', COUNT])
+
+def get_list_value(file_name, param, output_file_name):
+    array_of_dict = []
